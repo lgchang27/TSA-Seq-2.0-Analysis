@@ -1,5 +1,8 @@
 # TSA-Seq-2.0
 
+Python 2.7
+Required libraries: bx-python, numpy, scipy, progressbar, pytabix, pyfasta
+
 ## TSA-Seq normalization
 
 TSA-Seq normalization pipeline and softwares are at https://github.com/zocean/Norma. This pipeline will generate TSA-Seq enrichment scores from raw fastq files to bigwig signal tracks.
