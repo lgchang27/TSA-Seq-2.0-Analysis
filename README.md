@@ -1,6 +1,7 @@
 # TSA-Seq-2.0
 
 Python 2.7
+
 Required libraries: bx-python, numpy, scipy, progressbar, pytabix, pyfasta
 
 ## TSA-Seq normalization
